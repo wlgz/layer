@@ -1,4 +1,4 @@
-
+﻿
 ## 概要
 layer是一款近年来口碑非常不错的web弹层组件，她具备全方位的解决方案，致力于服务各个水平段的开发人员，您的页面会轻松地拥有丰富友好的操作体验。
 
@@ -14,4 +14,4 @@ layer致力于打造国内最盛行的弹层组件，为web开发提供强劲动
 
 
 ## 相关
-[官网](http://layer.layui.com/)、[社区交流](http://fly.layui.com)
+[官网](http://layer.layui.com/)、[社区交流](http://fly.layui.com)sd
